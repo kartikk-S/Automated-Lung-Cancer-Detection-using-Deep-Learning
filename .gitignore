@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual env
+venv/
+
+# Large data & model files
+*.h5
+*.hdf5
+*.keras
+*.npy
+*.npz
+*.ckpt
+*.pth
+*.pt
+*.mhd
+*.raw
+
+# Dataset folders
+data/
+datasets/
+outputs/
+
+# OS/editor
+.DS_Store
+.env

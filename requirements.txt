@@ -1,0 +1,21 @@
+# Core Deep Learning
+tensorflow==2.12.0
+keras==2.12.0
+
+# Data Handling
+numpy==1.23.5
+pandas==1.5.3
+
+# Model Evaluation & Metrics
+scikit-learn==1.2.2
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Medical Image Handling
+SimpleITK==2.2.1
+Pillow==9.5.0
+
+# Utilities
+tqdm==4.65.0
