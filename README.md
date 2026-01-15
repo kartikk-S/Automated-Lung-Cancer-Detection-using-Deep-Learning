@@ -19,8 +19,8 @@ To further improve robustness, the pipeline incorporates advanced preprocessing 
 Clone the repository and set up your environment:  
 
 ```bash
-git clone https://github.com/samikshapatel27/LungCancerDetection.git
-cd LungCancerDetection
+https://github.com/kartikk-S/Automated-Lung-Cancer-Detection-using-Deep-Learning.git
+cd Automated-Lung-Cancer-Detection-using-Deep-Learning
 pip install -r requirements.txt
 ```
 
